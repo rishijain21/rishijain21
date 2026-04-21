@@ -1,96 +1,95 @@
 <h1 align="center">Hi 👋, I'm Rishi Jain</h1>
-<h3 align="center">.NET Full Stack Developer | Building Scalable Backend Systems</h3>
+<h3 align="center">Backend-Focused .NET Developer | Building Scalable Systems</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rishi-jainn"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:jainnrishii21@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishijain21&color=blue" />
-</p>
+---
+
+## 🚀 Who Am I?
+
+I’m a **Software Engineer at Infosys** working on backend systems that process real-world financial data.
+
+I specialize in:
+- ⚙️ Building **scalable APIs using .NET Core**
+- 📊 Designing **data ingestion & processing pipelines**
+- 🧠 Writing **optimized queries & backend logic**
+- 🔧 Debugging and fixing **production-level issues**
+
+💡 I focus on building systems that work in **real-world production**, not just demo projects.
 
 ---
 
-## 🚀 About Me
+## 🥗 Flagship Project — Sovva
 
-- 💻 Software Engineer at **Infosys**
-- ⚙️ Backend-focused developer working with **.NET Core & distributed systems**
-- 📊 Experience building **data ingestion pipelines (S&P Capital IQ)**
-- 🧠 Strong in **APIs, system design, and performance optimization**
-- 🎯 Targeting **product-based companies & high-scale systems**
+> 🚀 A production-style meal subscription platform (My core project)
 
----
+### What it does:
+- Custom meal creation & subscription system
+- Automated daily order processing
+- Role-based user system
 
-## 🛠️ Tech Stack
+### Tech:
+`.NET 8` `Angular` `PostgreSQL` `EF Core` `Hangfire` `JWT Auth`
 
-### 💻 Languages
-`C#` `TypeScript` `JavaScript` `SQL` `Python`
+### Key Engineering Work:
+- Designed backend using **Clean Architecture**
+- Built **scalable APIs for subscriptions & orders**
+- Implemented **background jobs (Hangfire)** for automation
+- Structured database for **real-world use cases**
 
-### ⚙️ Backend
-`.NET Core` `ASP.NET Core` `Entity Framework Core` `REST APIs`
-
-### 🎨 Frontend
-`Angular` `React`
-
-### 🗄️ Databases
-`SQL Server` `PostgreSQL` `MongoDB`
-
-### ☁️ Cloud & Tools
-`Azure` `Docker` `Hangfire` `Git` `CI/CD`
-
----
-
-## 🚀 Featured Projects
-
-### 🥗 Sovva – Smart Meal Subscription Platform
-> Scalable system for personalized breakfast delivery
-
-- Built using **.NET Core 8 + Angular + PostgreSQL**
-- Implemented **JWT Authentication & Role-Based Access**
-- Automated order workflows using **Hangfire background jobs**
-- Designed scalable **DB architecture with EF Core**
-- Built full end-to-end system (subscriptions → orders → delivery)
-
----
-
-### 🍱 HealthyBreakfastApp (In Progress)
-> Customizable nutrition-based meal ordering platform
-
-- Clean Architecture using **.NET 8**
-- Real-time updates using **SignalR**
-- Modular backend with **DTOs, Services, Controllers**
-- Focused on scalability & production readiness
-
----
-
-### 💬 GigaChat – Chat Application
-
-- Built with **ASP.NET Core + Angular**
-- Role-based authentication system
-- EF Core for data handling
-- Agile team collaboration (Scrum)
+👉 This project represents my **backend engineering skills end-to-end**
 
 ---
 
 ## 💼 Work Experience
 
-### Software Engineer – Infosys
+### Software Engineer — Infosys
 
-- Built **REST APIs** for financial data platforms
-- Worked on **data ingestion pipelines from external APIs**
-- Implemented **data validation, transformation & mapping**
+- Built **REST APIs** for financial data systems
+- Processed data from external APIs (**S&P Capital IQ**)
+- Implemented **validation, transformation & mapping**
 - Optimized **SQL queries & stored procedures**
-- Developed **Angular UI components**
-- Resolved **production-level issues in backend systems**
+- Fixed **production issues in backend systems**
+
+---
+
+## 🧠 Technical Skills
+
+**Backend:**  
+.NET Core, ASP.NET Core, Entity Framework  
+
+**Frontend:**  
+Angular, React  
+
+**Databases:**  
+SQL Server, PostgreSQL, MongoDB  
+
+**Tools:**  
+Azure, Docker, Hangfire, Git  
+
+---
+
+## 🧪 Other Work (Exploration & Learning)
+
+These projects show my learning across different domains:
+
+- 💬 Chat Applications (ASP.NET + Angular)
+- 🛒 E-commerce Systems (MERN Stack)
+- 🌐 Frontend Projects (React, JavaScript)
+- 🤖 Automation Scripts (Python)
+
+👉 I’ve explored multiple areas, but my core strength is **backend engineering**
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Global Rank **34** – CodeChef Long Challenge
+- 🥇 Global Rank **34** – CodeChef
 - 💯 Solved **500+ DSA problems**
-- 📄 Published research on **AI-based Brain Tumor Classification**
+- 📄 Research in **AI (Brain Tumor Classification)**
 
 ---
 
@@ -104,27 +103,24 @@
   <img src="https://streak-stats.demolab.com/?user=rishijain21&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishijain21&layout=compact&theme=radical" />
-</p>
-
 ---
 
-## 🔥 Currently Working On
+## 🎯 What I’m Focused On
 
-- 🚀 Building **Sovva** into a production-grade product
-- 📚 Learning **System Design & Microservices**
-- ⚡ Improving **backend performance & scalability**
+- Building **production-grade backend systems**
+- Learning **System Design & Microservices**
+- Improving **performance & scalability**
 
 ---
 
 ## 🤝 Open to Opportunities
 
-💼 Actively looking for **.NET Backend / Full Stack roles**  
-📩 Reach out via LinkedIn or Email
+Looking for roles in:
+- Backend Engineering (.NET)
+- Full Stack (.NET + Angular)
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Final Thought
 
-> “I focus on building systems that scale in production, not just projects that run locally.”
+> “I build systems that scale — not just projects that run.”
