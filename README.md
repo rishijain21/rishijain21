@@ -40,8 +40,8 @@ Over time, I’ve built projects across:
 - Designed real-world database structure
 - Full-stack integration (Angular + .NET)
 
-🔗 Backend Repo: *(add your link)*  
-🔗 Live Demo: *(add if deployed)*  
+🔗 
+🔗 Live Demo: https://sovva.vercel.app/
 
 ---
 
@@ -55,9 +55,9 @@ Over time, I’ve built projects across:
 - Clean and responsive UI
 
 ### ⚙️ Tech:
-HTML | CSS | JavaScript | CMS
+MERN
 
-🔗 Live Website: *(add your deployed link here)*  
+🔗 Live Website: https://www.smileyourconfidence.in/
 
 👉 This project reflects my ability to **work with real clients and deliver production-ready solutions**
 
